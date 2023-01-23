@@ -3,16 +3,18 @@
 Source: http://www.sydney.eti.br/a-biblia-em-sql-mysql-em-13-versoes/
 
 Versions:
-- 1993 – Almeida Revisada e Atualizada
-- 1969 – Almeida Revisada e Corrigida
-- 2009 – Almeida Revisada e Corrigida
-- 2017 – Nova Almeida Atualizada
-- 2000 – Nova Tradução na Linguagem de Hoje
-- Nova Versão Internacional
-- Nova Versão Transformadora
-- 1848 – Almeida Antiga
-- Almeida Recebida
-- King James Atualizada
-- Basic English Bible
-- New International Version
-- American Standard Version
+
+- [00] - Biblia livre
+- [01] - 1993 - Almeida Revisada e Atualizada
+- [02] - 1969 - Almeida Revisada e Corrigida
+- [03] - 2009 - Almeida Revisada e Corrigida
+- [04] - 2017 - Nova Almeida Aualizada
+- [05] - 2000 - Nova Tradução na Linguagem de Hoje
+- [06] - Nova Versão Internacional
+- [07] - Nova Versão Transformadora
+- [08] - 1848 - Almeida Antiga
+- [09] - Almeida Recebida
+- [10] - King James Atualizada
+- [11] - Basic English Bible
+- [12] - New International Version
+- [13] - American Standard Version
